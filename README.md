@@ -4,7 +4,6 @@ Delphi syntax for Sublime text editor
 
 TODO:
 -----
-  - Better char detection
   - Fix strings
   - More keywords, split keywords to correct groups
   - New language features

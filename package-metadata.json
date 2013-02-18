@@ -1,5 +1,5 @@
 {
-	"description": "Delphi/Pascal syntax for Sublime",
+	"description": "Delphi syntax for Sublime",
 	"version": "0.5", 
-	"url": "git@github.com:DiGi/sublime-pascal.git"
+	"url": "git@github.com:DiGi/sublime-delphi.git"
 }
