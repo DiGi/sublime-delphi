@@ -1,7 +1,11 @@
 {
     "fileTypes": [
         "pas", 
-        "dpr"
+        "dpr",
+        "inc",
+        "lpr",
+        "p",
+        "pp"
     ], 
     "foldingStartMarker": "\\b(?i:(function|package|procedure|try|type))\\b", 
     "foldingStopMarker": "\\b(?i:(end))\\b", 
